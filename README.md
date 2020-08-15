@@ -1,2 +1,2 @@
-# New-Horizontal-Hurdles
-A functioning horizontal hurdles game. 
+# Class-40
+Multiplayer car-racing. 
